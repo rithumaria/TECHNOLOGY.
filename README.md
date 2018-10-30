@@ -15,3 +15,4 @@
 * Competency
 * World Destruction
 * Insecurity
+* Lot of Diseases 
